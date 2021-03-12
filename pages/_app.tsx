@@ -17,4 +17,13 @@ const App = ({ Component, pageProps }: AppProps): JSX.Element => {
     </PersistGate>
   );
 };
+
 export default wrapper.withRedux(App);
+
+
+
+
+
+
+
+
