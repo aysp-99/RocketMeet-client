@@ -78,5 +78,4 @@ const Login = (): JSX.Element => {
     </div>
   );
 };
-
 export default Login;
