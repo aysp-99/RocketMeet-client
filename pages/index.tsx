@@ -46,5 +46,4 @@ const Home = (): JSX.Element => {
     </Layout>
   );
 };
-
 export default Home;
