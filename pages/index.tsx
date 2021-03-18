@@ -1,3 +1,4 @@
+import test from "../src/";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import { useSelector } from "react-redux";
 import Login from "../src/components/Login";

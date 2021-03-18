@@ -53,3 +53,8 @@ const makeStore: MakeStore<{}, Action<any>> = ({ isServer }: any) => {
 
 // Export the wrapper & wrap the pages/_app.ts with this wrapper only
 export const wrapper = createWrapper(makeStore); // TODO: find type for `makeStore`
+
+
+
+
+
