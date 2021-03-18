@@ -18,3 +18,8 @@ const App = ({ Component, pageProps }: AppProps): JSX.Element => {
   );
 };
 export default wrapper.withRedux(App);
+
+
+
+
+

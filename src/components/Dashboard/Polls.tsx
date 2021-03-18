@@ -73,3 +73,8 @@ const Polls: Function = (props: {
 };
 
 export default Polls;
+
+
+
+
+
